@@ -1,2 +1,2 @@
 # Layoffs_Project
-In this project, I cleaned and explored layoffs data using SQL Server to ensure data quality and uncover key trends.
+In this project, I cleaned and explored layoffs data using SQL Server, ensuring data quality and performing exploratory analysis to uncover key insights.
